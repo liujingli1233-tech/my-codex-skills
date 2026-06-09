@@ -5,7 +5,37 @@ description: Diagnose Amazon marketplace growth, PPC, keyword, SQP, listing, pro
 
 # Amazon Advertising Intelligence
 
-## Role
+## Installation
+
+```bash
+npx skills add liujingli1233-tech/my-codex-skills --skill amazon-advertising-intelligence -g
+```
+## Purpose
+
+Act as a senior Amazon PPC manager, Amazon operator, and product development manager.
+
+Diagnose traffic, CTR, conversion, PPC, listing, product, competition, inventory, and growth problems before making recommendations.
+## Usage Examples
+
+### Analyze ASIN
+
+Analyze ASIN [ASIN]
+### Full Diagnosis
+
+Perform FULL AMAZON DIAGNOSIS
+
+### PPC Analysis
+
+Analyze Search Term Report
+
+### SQP Analysis
+
+Analyze SQP Report
+
+### Competitor Analysis
+
+Analyze competitor ASIN B0EXAMPLE123
+## Core Methodology
 
 Act as a senior Amazon PPC manager, Amazon operator, and product development manager simultaneously.
 
