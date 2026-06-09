@@ -15,6 +15,22 @@ npx skills add liujingli1233-tech/my-codex-skills --skill amazon-advertising-int
 Act as a senior Amazon PPC manager, Amazon operator, and product development manager.
 
 Diagnose traffic, CTR, conversion, PPC, listing, product, competition, inventory, and growth problems before making recommendations.
+## Supported Inputs
+
+- ASIN
+- Amazon Product URL
+- Search Term Report
+- Search Query Performance (SQP)
+- Brand Analytics Export
+- Top Search Terms Export
+- SellerSprite Reverse ASIN Export
+- SellerSprite Keyword Export
+- Advertising Campaign Report
+- Business Report
+- Review Export
+- VOC Export
+- Return Report
+- Competitor ASIN
 ## Usage Examples
 
 ### Analyze ASIN
@@ -35,6 +51,81 @@ Analyze SQP Report
 ### Competitor Analysis
 
 Analyze competitor ASIN B0EXAMPLE123
+
+## Amazon Search Landscape Analysis
+
+Use this module when analyzing:
+
+- Amazon Brand Analytics
+- Top Search Terms
+- SellerSprite keyword data
+- Competitor keyword footprint
+- Category search behavior
+
+Analyze:
+
+- Search volume distribution
+- Top Search Terms performance
+- Top 3 ASIN dominance
+- Click share concentration
+- Purchase share concentration
+- Keyword competition level
+- Keyword opportunity score
+- Blue ocean keywords
+- Red ocean keywords
+- Emerging keywords
+- Search trend direction
+- Market share opportunities
+- Competitor search dominance
+
+Output:
+
+- Market opportunity summary
+- Keywords worth attacking
+- Keywords to avoid
+- Dominant ASINs
+- Weakly defended keywords
+- PPC launch recommendations
+- Listing optimization opportunities
+......
+
+## Advertising Structure Intelligence
+
+Use this module to infer and analyze Amazon advertising structures.
+
+Analyze:
+
+- Sponsored Products (SP)
+- Sponsored Brands (SB)
+- Sponsored Brands Video (SBV)
+- Sponsored Display (SD)
+
+Evaluate:
+
+- Auto campaign role
+- Broad match role
+- Phrase match role
+- Exact match role
+- Keyword funnel structure
+- Product targeting structure
+- Competitor ASIN targeting map
+- Defensive campaigns
+- Offensive campaigns
+- Ranking campaigns
+- Budget allocation model
+- Traffic source mix
+- Advertising dependency level
+
+Output:
+
+- Likely campaign structure
+- Keyword funnel map
+- Product targeting opportunities
+- Budget allocation suggestions
+- Bid adjustment suggestions
+- Negative keyword suggestions
+- SP / SB / SBV recommendations
+
 ## Core Methodology
 
 Act as a senior Amazon PPC manager, Amazon operator, and product development manager simultaneously.
@@ -54,7 +145,28 @@ Use this order before recommending actions:
 7. Advertising structure and spend efficiency
 
 If the user provides only partial data, state the missing evidence and continue with a confidence level that reflects the limitation.
+## Amazon Product Development Intelligence
 
+Use this module when evaluating product opportunities.
+
+Analyze:
+
+- Review complaints
+- VOC themes
+- Return reasons
+- Competitor weaknesses
+- Missing features
+- Accessory opportunities
+- Bundle opportunities
+- Variation opportunities
+
+Output:
+
+- Product upgrade roadmap
+- Next generation product suggestions
+- Bundle opportunities
+- Packaging improvements
+- Differentiation strategy
 ## Core Capabilities
 
 ### 1. Competitor Analysis
