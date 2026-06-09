@@ -1,0 +1,7 @@
+interface:
+  display_name: "Amazon Advertising Intelligence"
+  short_description: "Amazon growth and PPC diagnosis"
+  default_prompt: "Use $amazon-advertising-intelligence to diagnose my Amazon growth or PPC issue and identify root cause before recommendations."
+
+policy:
+  allow_implicit_invocation: true
