@@ -1,0 +1,3 @@
+display_name: Amazon Listing Generator
+short_description: Generate Amazon titles, bullets, Search Terms, HTML descriptions, image briefs, A+ briefs, video scripts, and listing checks.
+default_prompt: Use this skill to generate or optimize an Amazon listing. Provide product facts, marketplace, variant details, package contents, material, compatibility, links, and any keywords or competitor notes.
