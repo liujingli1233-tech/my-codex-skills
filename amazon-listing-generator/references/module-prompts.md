@@ -14,6 +14,14 @@ For a full Amazon listing package, output in this order:
 8. Rufus Q&A validation
 9. Listing self-check
 
+## Global Visual Fidelity Rule
+
+- Product appearance, structure, color, texture, accessories, package, storage case, labels, logo, size markings, and quantity must stay 100% consistent with the user's provided product photos or confirmed product facts.
+- Do not redesign the product, change its structure, change colors, add missing parts, remove real parts, invent packaging, change the storage case, or create a different product style.
+- You may improve composition, lighting direction, clarity, background, callout hierarchy, and information layout, but the physical product and packaging must remain exactly the same.
+- If any visual detail is unclear, mark it as needing user confirmation instead of guessing.
+- Any image, A+, or video brief for designers or AI image tools must include: `Use the provided product photo as the source of truth; keep product appearance, structure, color, accessories, packaging, and quantity exactly the same; do not redesign the product.`
+
 ## Title
 
 - Put the main category keyword near the beginning.
@@ -64,22 +72,28 @@ Example:
 ## Image Brief
 
 - Main image: pure white background, no text, no logo overlays, no watermark.
-- Image 2-3: focus on the strongest conversion points.
-- Image 4-6: show use cases, specs, compatibility, material, and trust-building details.
-- Image 7: package contents, storage, size chart, or variant comparison.
+- Product and packaging must match the provided real product photos exactly.
+- Image 2-3: focus on the strongest conversion points without changing the product's actual appearance or structure.
+- Image 4-6: show use cases, specs, compatibility, material, and trust-building details while keeping the real product unchanged.
+- Image 7: package contents, storage, size chart, or variant comparison using the real accessories and package contents only.
+- Do not ask designers or AI tools to create a new product model, new packaging, new colorway, or invented accessory.
 
 ## A+ Brief
 
 - Structure modules around value proposition, key function, user scenario, material/quality, comparison, and package contents.
+- Product visuals, diagrams, package contents, and comparison images must be based on the actual product photos and confirmed facts.
 - Keep copy direct and factual.
 - Do not include promotional claims, unsupported superiority, medical claims, or competitor names.
+- Do not redesign product appearance, packaging, accessories, or storage layout for A+ visuals.
 
 ## Video Script
 
 - Default length: 30 seconds.
 - Use 3-5 second scenes.
 - Show the problem, product solution, key specs, how it works, and package contents.
+- Product appearance, structure, accessories, packaging, and quantity shown in the video must match the user's provided product photos and facts.
 - Do not make claims not supported by the listing facts.
+- Do not script a redesigned product, new packaging, or invented use configuration.
 
 ## Rufus Q&A Validation
 
@@ -96,5 +110,6 @@ Check these areas:
 - Description consistency
 - Search Terms duplication and backend compliance
 - Image/A+ consistency
+- Product visual fidelity: appearance, structure, colors, accessories, package, labels, logo, size markings, and quantity must match the source photos and confirmed facts
 - Rufus answerability
 - Missing specs or compatibility risks
