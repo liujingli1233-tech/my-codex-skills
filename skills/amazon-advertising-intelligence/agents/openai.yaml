@@ -1,7 +1,7 @@
 interface:
   display_name: "Amazon Advertising Intelligence"
-  short_description: "Amazon growth and PPC diagnosis"
-  default_prompt: "Use $amazon-advertising-intelligence to diagnose my Amazon growth or PPC issue and identify root cause before recommendations."
+  short_description: "Amazon growth, PPC, SQP, competitor, and low-bid keyword diagnosis"
+  default_prompt: "Use $amazon-advertising-intelligence to diagnose my Amazon growth or PPC issue, identify root cause first, and when needed find low-bid bargain keywords with exact bids, daily budgets, negatives, and a 7-day test plan."
 
 policy:
   allow_implicit_invocation: true
